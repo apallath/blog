@@ -1,0 +1,15 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Akash Pallath's Blog"
+theme = "novela"
+
+# Novela settings
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/PallathAkash"
+github= "https://github.com/apallath"
+linkedin= "https://www.linkedin.com/in/akash-pallath"
+
+[taxonomies]
+author = "authors"
