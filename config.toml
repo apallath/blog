@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "apallath.github.io/blog"
 languageCode = "en-us"
 title = "Akash Pallath's Blog"
 theme = "novela"
