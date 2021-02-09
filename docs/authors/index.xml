@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Akash Pallath&#39;s Blog</title>
-    <link>apallath.github.io/blog/authors/</link>
+    <link>https://apallath.github.io/blog/authors/</link>
     <description>Recent content in Authors on Akash Pallath&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="apallath.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apallath.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akash Pallath</title>
-      <link>apallath.github.io/blog/authors/akash-pallath/</link>
+      <link>https://apallath.github.io/blog/authors/akash-pallath/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>apallath.github.io/blog/authors/akash-pallath/</guid>
+      <guid>https://apallath.github.io/blog/authors/akash-pallath/</guid>
       <description></description>
     </item>
     
